@@ -1,0 +1,58 @@
+disabled:
+  - id: foam.foam-vscode
+    uuid: b85c6625-454b-4b61-8a22-c42f3d0f2e1e
+enabled:
+  - id: bierner.markdown-mermaid
+    uuid: f8d0ffc4-66bb-4a9c-8149-ef8f043691a1
+  - id: bungcip.better-toml
+    uuid: 464f4ac7-af65-4aa9-9907-4ba7fa419085
+  - id: eamodio.gitlens
+    uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
+  - id: GitHub.vscode-pull-request-github
+    uuid: 69ddd764-339a-4ecc-97c1-9c4ece58e36d
+  - id: hbenl.test-adapter-converter
+    uuid: fcc7f3d5-c349-4329-85ab-4760fc641520
+  - id: hbenl.vscode-test-explorer
+    uuid: ff96f1b4-a4b8-45ef-8ecf-c232c0cb75c8
+  - id: jeanp413.open-remote-ssh
+    uuid: 9fc16cea-08e2-4ae5-bf75-224004d722ff
+  - id: mhutchie.git-graph
+    uuid: 438221f8-1107-4ccd-a6fe-f3b7fe0856b7
+  - id: ms-python.python
+    uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
+  - id: ms-toolsai.jupyter
+    uuid: 6c2f1801-1e7f-45b2-9b5c-7782f1e076e8
+  - id: ms-toolsai.jupyter-keymap
+    uuid: 9f6dc8db-620c-4844-b8c5-e74914f1be27
+  - id: ms-toolsai.jupyter-renderers
+    uuid: b15c72f8-d5fe-421a-a4f7-27ed9f6addbf
+  - id: ms-toolsai.vscode-jupyter-cell-tags
+    uuid: ab4fb32a-befb-4102-adf9-1652d0cd6a5e
+  - id: ms-toolsai.vscode-jupyter-slideshow
+    uuid: e153ca70-b543-4865-b4c5-b31d34185948
+  - id: mushan.vscode-paste-image
+    uuid: ffaf4ec8-f001-4f02-b671-705ecf079cde
+  - id: rioj7.command-variable
+    uuid: cbb68238-96f0-4372-9e2c-7f9b10e757cf
+  - id: rust-lang.rust-analyzer
+    uuid: 06574cb4-e5dc-4631-8174-a543a4533621
+  - id: serayuzgur.crates
+    uuid: 6a95a3fd-3a5d-4326-b8ab-1b1653b1f183
+  - id: Swellaby.vscode-rust-test-adapter
+    uuid: c167848c-fc11-496e-b432-1fd0a578a408
+  - id: usernamehw.errorlens
+    uuid: 9d8c32ab-354c-4daf-a9bf-20b633734435
+  - id: vadimcn.vscode-lldb
+    uuid: bee31e34-a44b-4a76-9ec2-e9fd1439a0f6
+  - id: vscodevim.vim
+    uuid: d96e79c6-8b25-4be3-8545-0e0ecefcae03
+  - id: waderyan.gitblame
+    uuid: 2335b326-c334-4e81-bc51-c408fcec6e7c
+  - id: wcrichton.flowistry
+    uuid: 2551f9f8-fbd2-43e8-8490-26056fdfb26f
+  - id: yzhang.markdown-all-in-one
+    uuid: 98790d67-10fa-497c-9113-f6c7489207b2
+  - id: zhuangtongfa.material-theme
+    uuid: 26a529c9-2654-4b95-a63f-02f6a52429e6
+  - id: zokugun.cron-tasks
+    uuid: eb05256f-c7aa-4554-95c6-1bb8e30e0cea

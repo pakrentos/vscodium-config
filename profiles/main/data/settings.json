@@ -1,0 +1,16 @@
+{
+    "workbench.colorTheme": "One Dark Pro",
+    "errorLens.removeLinebreaks": false,
+    "python.condaPath": "/Users/qwerty/miniconda3/bin/conda",
+    "git.autofetch": true,
+    "terminal.external.osxExec": "iTerm2.app",
+    "terminal.integrated.scrollback": 10000,
+    "githubPullRequests.pullBranch": "never",
+    "git.confirmSync": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "debug.allowBreakpointsEverywhere": true,
+    "gitlens.codeLens.enabled": false,
+    "window.zoomLevel": 1,
+    "workbench.activityBar.visible": false,
+    "editor.minimap.showSlider": "always"
+}
