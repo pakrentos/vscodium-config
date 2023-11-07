@@ -1,16 +1,42 @@
 {
-    "workbench.colorTheme": "One Dark Pro",
+    // Debug
+    "debug.allowBreakpointsEverywhere": true,
+
+    // Editor
+    "editor.minimap.showSlider": "always",
     "errorLens.removeLinebreaks": false,
-    "python.condaPath": "/Users/qwerty/miniconda3/bin/conda",
+
+    // Foam
+    "foam.files.defaultNoteExtension": "foam.md",
+    "foam.files.notesExtensions": "foam.md",
+    "foam.openDailyNote.fileExtension": "foam.md",
+    "foam.files.ignore": [
+        "**/target/**/*",
+        "**/.cargo/**/*",
+        "**/.git/**/*",
+        "**/.vscode/**/*",
+        "**/_layouts/**/*",
+        "**/_site/**/*",
+        "**/node_modules/**/*",
+    ],
+
+    // Git
     "git.autofetch": true,
-    "terminal.external.osxExec": "iTerm2.app",
-    "terminal.integrated.scrollback": 10000,
-    "githubPullRequests.pullBranch": "never",
     "git.confirmSync": false,
     "diffEditor.ignoreTrimWhitespace": false,
-    "debug.allowBreakpointsEverywhere": true,
+    "githubPullRequests.pullBranch": "never",
     "gitlens.codeLens.enabled": false,
+
+    // Python
+    "python.condaPath": "/Users/qwerty/miniconda3/bin/conda",
+
+    // Terminal
+    "terminal.external.osxExec": "iTerm2.app",
+    "terminal.integrated.scrollback": 10000,
+
+    // Workbench
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.activityBar.location": "hidden",
     "window.zoomLevel": 1,
-    "workbench.activityBar.visible": false,
-    "editor.minimap.showSlider": "always"
+    "editor.minimap.enabled": false,
 }

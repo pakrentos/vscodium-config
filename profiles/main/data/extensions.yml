@@ -1,13 +1,15 @@
-disabled:
-  - id: foam.foam-vscode
-    uuid: b85c6625-454b-4b61-8a22-c42f3d0f2e1e
+disabled: []
 enabled:
+  - id: alefragnani.Bookmarks
+    uuid: b689fcc8-d494-4dbf-a228-2c694a578afc
   - id: bierner.markdown-mermaid
     uuid: f8d0ffc4-66bb-4a9c-8149-ef8f043691a1
   - id: bungcip.better-toml
     uuid: 464f4ac7-af65-4aa9-9907-4ba7fa419085
   - id: eamodio.gitlens
     uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
+  - id: foam.foam-vscode
+    uuid: b85c6625-454b-4b61-8a22-c42f3d0f2e1e
   - id: GitHub.vscode-pull-request-github
     uuid: 69ddd764-339a-4ecc-97c1-9c4ece58e36d
   - id: hbenl.test-adapter-converter
@@ -16,6 +18,8 @@ enabled:
     uuid: ff96f1b4-a4b8-45ef-8ecf-c232c0cb75c8
   - id: jeanp413.open-remote-ssh
     uuid: 9fc16cea-08e2-4ae5-bf75-224004d722ff
+  - id: JScearcy.rust-doc-viewer
+    uuid: eb6486a2-2c35-4e5b-956b-e320c44f732a
   - id: mhutchie.git-graph
     uuid: 438221f8-1107-4ccd-a6fe-f3b7fe0856b7
   - id: ms-python.python
